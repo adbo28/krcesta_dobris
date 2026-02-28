@@ -23,8 +23,12 @@ menu:
 include:
   - _pages
 
+paginate: 14
+paginate_path: "/page:num/"
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
