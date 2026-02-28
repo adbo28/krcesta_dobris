@@ -10,4 +10,13 @@ menu:
   - name: "Kontakty"
     url: "kontakty"
 
+post_date_prefix: "Napsáno"
+sharing_button_prompt: "Sdílejte:"
+
 social:
+    - icon: envelope
+      link: mailto:vas@email.cz
+    - icon: facebook
+      link: https://www.facebook.com/vaseprofil
+    - icon: instagram
+      link: https://www.instagram.com/vaseprofil
