@@ -37,4 +37,5 @@ Odpuštění tohoto druhu není slabost. Je to největší síla, jakou člověk
 
 ---
 
-*Texty k jednotlivým zastavením najdete na stránce [Zastavení](/zastaveni).*
+*Texty k jednotlivým zastavením najdete na stránce [Zastavení]({{ '/zastaveni' | relative_url }}).*
+

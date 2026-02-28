@@ -1,0 +1,8 @@
+<nav class="post-nav">
+  {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}">← {{ page.next.title }}</a>
+  {% endif %}
+  {% if page.previous %}
+    <span style="float:right"><a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }} →</a></span>
+  {% endif %}
+</nav>
