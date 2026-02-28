@@ -1,0 +1,30 @@
+title: "Křížová cesta – Smíření"
+description: "Čtrnáct kamenných zastavení na kraji lesa u Dobříše – meditace o smíření a odpuštění"
+url: ""
+baseurl: ""
+
+remote_theme: LeNPaul/Millennial
+
+header_feature_image: "assets/img/ilustracni.jpg"
+header_text: "Křížová cesta – Smíření"
+
+menu:
+  - title: "Zastavení"
+    url: "/zastaveni"
+  - title: "Smíření"
+    url: "/smireni"
+  - title: "Mapa"
+    url: "/mapa"
+  - title: "Autor"
+    url: "/autor"
+  - title: "Kontakty"
+    url: "/kontakty"
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
