@@ -3,7 +3,6 @@ description: "Čtrnáct kamenných zastavení na kraji lesa u Dobříše – med
 url: "https://adbo28.github.io"
 baseurl: "/krcesta_dobris"
 
-repository: adbo28/krcesta_dobris
 remote_theme: LeNPaul/Millennial
 
 header_feature_image: "assets/img/ilustracni.jpg"
