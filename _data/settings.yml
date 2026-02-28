@@ -1,0 +1,13 @@
+menu:
+  - name: "Zastavení"
+    url: "zastaveni"
+  - name: "Smíření"
+    url: "smireni"
+  - name: "Mapa"
+    url: "mapa"
+  - name: "Autor"
+    url: "autor"
+  - name: "Kontakty"
+    url: "kontakty"
+
+social:
