@@ -5,6 +5,8 @@ baseurl: "/krcesta_dobris"
 
 remote_theme: LeNPaul/Millennial
 
+hide_related_posts: true
+
 header_feature_image: "assets/img/ilustracni.jpg"
 header_text: "Křížová cesta – Smíření"
 
