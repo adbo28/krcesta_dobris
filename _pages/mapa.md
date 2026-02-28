@@ -10,12 +10,4 @@ header_text: "Kde najdete zastavení"
 
 Čtrnáct kamenných zastavení se nachází na kraji lesa u Dobříše.
 
-<!-- Sem doplňte mapu nebo konkrétní popis polohy -->
-
----
-
-## Jak se dostat
-
-<!-- Sem doplňte navigační pokyny nebo embed Google Maps -->
-
-*Podrobnější informace o poloze doplníme.*
+<iframe style="border:none" src="https://mapy.com/s/hezupapepe" width="400" height="280" frameborder="0"></iframe>
