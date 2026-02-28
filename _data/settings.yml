@@ -1,5 +1,5 @@
 menu:
-  - name: "Zastavení"
+  - name: "Křížová cesta"
     url: "zastaveni"
   - name: "Smíření"
     url: "smireni"
