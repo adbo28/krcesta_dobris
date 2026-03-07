@@ -1,14 +1,34 @@
 ---
 layout: page
-title: "Autor"
+title: "Miroslav Beščec"
 permalink: /autor/
 header_feature_image: "assets/img/ilustracni_5.jpg"
 header_text: "Miroslav Beščec"
 ---
 
-## Miroslav Beščec
+<style>
+.author-photo {
+  float: left;
+  margin: 0 1.5rem 1rem 0;
+  max-width: 360px;
+  width: 50%;
+}
+@media (max-width: 600px) {
+  .author-photo {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    margin: 0 0 1.5rem 0;
+  }
+}
+</style>
 
-*(* 5. 6. 1955 v Opočně) – sochař a restaurátor*
+<img src="{{ "/assets/img/mbescec.jpg" | relative_url }}" alt="Miroslav Beščec" class="author-photo">
+
+## Autor
+
+(* 5. 6. 1955 v Opočně) – sochař a restaurátor
 
 Absolvent Střední umělecko-průmyslové školy v Praze – obor řezbářství u prof. Soukupa.
 
