@@ -1,3 +1,16 @@
 .post-share {
   padding-top: 2rem;
 }
+
+@media (max-width: 600px) {
+  .featured-post h2 {
+    width: 100%;
+    left: 0;
+    padding: 0;
+  }
+  .featured-post h2 span {
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+  }
+}
