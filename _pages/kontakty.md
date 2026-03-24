@@ -8,6 +8,8 @@ header_text: "Kontakty"
 
 ## Spojte se s námi
 
-<!-- Sem doplňte kontaktní údaje -->
+Křížová cesta vznikla pod hlavičkou Římskokatolické farnosti v Dobříši. Tato zajišťuje její správu. Pro více informací navštivte web [www.farnostdobris.cz](http://www.farnostdobris.cz).
 
-*Kontaktní informace doplníme.*
+Pokud máte nějaký podnět, nebo zájem o více informací o křížové cestě, prosíme napište na [smireni.odpusteni@gmail.com](mailto:smireni.odpusteni@gmail.com).
+
+Přejeme, ať Vás toto dílo osloví a vtáhne do ticha vlastního srdce. 

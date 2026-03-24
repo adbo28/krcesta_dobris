@@ -10,4 +10,7 @@ header_text: "Kde najdete zastavení"
 
 Čtrnáct kamenných zastavení se nachází na kraji lesa u Dobříše.
 
-<iframe style="border:none" src="https://mapy.com/s/hezupapepe" width="400" height="280" frameborder="0"></iframe>
+<iframe style="border:none" src="https://mapy.com/s/kokakuleja" width="700" height="466" frameborder="0"></iframe>
+
+Zdroj: [Mapy.com](https://mapy.com/s/kokakuleja)
+
