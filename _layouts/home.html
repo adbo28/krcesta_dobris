@@ -3,6 +3,19 @@ layout: default
 title: Home
 ---
 
+<!-- DOČASNÝ BANNER – propagace videa ke sbírce na sochu Smíření. Po skončení akce celý blok .video-promo smazat. -->
+<div class="video-promo">
+  <a class="video-promo-thumb" href="https://www.youtube.com/watch?v=NU2Dsw1f_M4" target="_blank" rel="noopener">
+    <img src="https://img.youtube.com/vi/NU2Dsw1f_M4/hqdefault.jpg" alt="Video o soše Smíření" loading="lazy">
+    <span class="video-promo-play"><i class="fa fa-youtube-play" aria-hidden="true"></i></span>
+  </a>
+  <div class="video-promo-text">
+    <a href="https://www.youtube.com/watch?v=NU2Dsw1f_M4" target="_blank" rel="noopener"><strong>Klip k písni Veronika</strong></a>
+    <span>Podívejte se na naše hudební video o vznikajícím díle. Více o soše Smíření najdete <a href="{{ '/smireni' | relative_url }}">zde</a>.</span>
+  </div>
+</div>
+<!-- KONEC dočasného banneru -->
+
 {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}

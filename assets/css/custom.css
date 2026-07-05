@@ -1,3 +1,89 @@
+/* Dočasný banner na homepage – propagace videa ke sbírce na sochu Smíření */
+.video-promo {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 0 auto 2rem;
+  padding: 1.25rem 1.5rem;
+  max-width: 700px;
+  border: 1px solid #e0ddd6;
+  border-radius: 6px;
+  background: #faf9f6;
+}
+
+.video-promo-thumb {
+  flex: 0 0 auto;
+  position: relative;
+  display: block;
+  width: 240px;
+  max-width: 45%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.video-promo-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.2s ease;
+}
+
+.video-promo-thumb:hover img {
+  transform: scale(1.04);
+}
+
+.video-promo-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 3.4rem;
+  height: 3.4rem;
+  border-radius: 50%;
+  background: rgba(196, 48, 43, 0.9);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  padding-left: 0.15rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+}
+
+.video-promo-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.video-promo-text > a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.video-promo-text strong {
+  font-size: 1.15rem;
+}
+
+.video-promo-text > span {
+  font-size: 0.95rem;
+  opacity: 0.8;
+}
+
+@media (max-width: 600px) {
+  .video-promo {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+  .video-promo-thumb {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
 .footer-description {
   margin-bottom: 0;
 }
