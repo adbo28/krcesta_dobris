@@ -64,7 +64,7 @@ Toto dílo můžete podpořit i Vy. Můžete k tomu využít tento QR kód:
 
 <img src="{{ "/assets/img/qr.png" | relative_url }}" alt="QR kód" width="315px" height="317px">
 
-dar na účet farnosti: 3869703339/0800, variabiní symbol: 911
+dar na transparentní účet města Dobříš: 030031-0521732389/0800
 
 Na všechny dary vystavíme potvrzení pro možnost odečtu z daní. Prosíme, na [smireni.odpusteni@gmail.com](mailto:smireni.odpusteni@gmail.com) napište své kontaktní údaje, kam potvrzení začátkem nového kalendářního roku zašleme. Děkujeme!
 
