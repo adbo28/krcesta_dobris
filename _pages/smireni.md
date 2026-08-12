@@ -62,7 +62,7 @@ Odhadované náklady díla by neměly přesáhnout 600 000 Kč a financování b
 
 Toto dílo můžete podpořit i Vy. Můžete k tomu využít tento QR kód:
 
-<img src="{{ "/assets/img/qr.png" | relative_url }}" alt="QR kód" width="315px" height="317px">
+<img src="{{ "/assets/img/qr.png" | relative_url }}" alt="QR kód" width="298px" height="295px">
 
 dar na transparentní účet města Dobříš: 030031-0521732389/0800
 
